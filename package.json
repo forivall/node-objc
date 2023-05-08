@@ -25,8 +25,8 @@
     "node": ">=14.0.0"
   },
   "dependencies": {
-    "ffi-napi": "^4.0.3",
-    "ref-napi": "^3.0.3",
+    "ffi-napi": "npm:@lwahonen/ffi-napi@^4.0.12",
+    "ref-napi": "npm:@lwahonen/ref-napi@^4.0.8",
     "ref-struct-di": "^1.1.1"
   },
   "devDependencies": {
